@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.avianca.esb</groupId>
-  <artifactId>test-avianca</artifactId>
+  <artifactId>testavianca</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>Avianca :: Integrations :: Spring-Boot :: Camel REST / AMQ</name>
