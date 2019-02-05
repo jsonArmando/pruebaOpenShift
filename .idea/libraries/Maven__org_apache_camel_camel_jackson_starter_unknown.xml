@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.camel:camel-jackson-starter:unknown">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/apache/camel/camel-jackson-starter/unknown/camel-jackson-starter-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/org/apache/camel/camel-jackson-starter/unknown/camel-jackson-starter-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/apache/camel/camel-jackson-starter/unknown/camel-jackson-starter-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
